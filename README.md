@@ -47,6 +47,6 @@ src                         # Chứa source code của ứng dụng
 +-- uitls                   # Chưá các hàm tiện ích (format,validate, convert, ...) của ứng dụng.
 ```
 # Cách build file apk và ios
-- ios: Sử dụng xcode để build
-
+- ios: Sử dụng xcode để build vào link https://docs.google.com/document/d/1yNwXWvoIRpYFZxe76nGgkLa1x_G5qPNY/edit?usp=drive_web&ouid=111233866281969651248&rtpof=true để xem hướng dẫn
 - android: Dùng lệnh  npx react-native build-android --mode=release
+- Vào thư mục \android\app\build\outputs\apk\release để mở file apk app-release
